@@ -6,7 +6,7 @@ final class VectorProtocolTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(VectorProtocol().text, "Hello, World!")
+//        XCTAssertEqual(VectorProtocol().text, "Hello, World!")
     }
 
     static var allTests = [
